@@ -1,4 +1,8 @@
 # Olá, eu sou o Miguel alves! 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Silverex &show_icons=true&theme=dracula" />
+</div>
+
 
 ### Desenvolvedor Full Stack em constante evolução
 
