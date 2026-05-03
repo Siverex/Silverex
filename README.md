@@ -1,4 +1,7 @@
 # Olá, eu sou o Miguel alves! 💻👨🏻‍💻
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula" />
+
 ### Desenvolvedor Full Stack em constante evolução
 
 Sou um entusiasta da tecnologia apaixonado por transformar café em código e ideias em interfaces funcionais. Atualmente, foco meus estudos em arquitetura de software e design responsivo, buscando sempre criar experiências digitais fluidas e eficientes.
