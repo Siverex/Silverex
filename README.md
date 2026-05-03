@@ -35,8 +35,5 @@ Estou sempre aberto a novas conexões, colaborações em projetos interessantes 
 
 📫 **Como me encontrar:**
 
-* **Email:** [seu-email@exemplo.com]
-* **LinkedIn:** [linkedin.com/in/seu-perfil]
-
----
-*Este README foi personalizado com 💜*
+* **Email:** [miguelalbes877@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/miguel-alves-6aaa612bb?utm_source=share_via&utm_content=profile&utm_medium=member_android]
