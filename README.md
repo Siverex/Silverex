@@ -1,6 +1,7 @@
 # Olá, eu sou o Miguel alves! 💻👨🏻‍💻
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Siverex&show_icons=true&theme=dracula)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Siverex&show_icons=true&theme=dracula&cache_seconds=1800)
+
 
 
 
