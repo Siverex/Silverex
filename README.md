@@ -18,9 +18,6 @@ Uma web para físicos, atualmente em processo de desenvolvimento, com grande ini
 * **Status:** Atualmente trabalhando na estrutura web
 
 ---
-
-## 🚀 Minhas Skills
-
 ### **Frontend**
 
 
@@ -60,7 +57,6 @@ Uma web para físicos, atualmente em processo de desenvolvimento, com grande ini
  
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
----
 
 ## 💬 Vamos Conversar!
 
