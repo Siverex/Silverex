@@ -15,7 +15,7 @@ Sou um entusiasta da tecnologia apaixonado por transformar café em código e id
 
 **[Physics web]**
 Uma web para físicos, atualmente em processo de desenvolvimento, com grande iniciativa 
-* **Status:** Atualmente trabalhando na implementação de lógica na parte de estoque
+* **Status:** Atualmente trabalhando na estrutura web
 
 ---
 
